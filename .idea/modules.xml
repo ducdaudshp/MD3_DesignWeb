@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MD3_WebDesign.iml" filepath="$PROJECT_DIR$/MD3_WebDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menu2cap/menu2cap.iml" filepath="$PROJECT_DIR$/menu2cap/menu2cap.iml" />
+    </modules>
+  </component>
+</project>
