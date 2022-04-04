@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MD3_WebDesign.iml" filepath="$PROJECT_DIR$/MD3_WebDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/menu2cap/menu2cap.iml" filepath="$PROJECT_DIR$/menu2cap/menu2cap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menuNgang/menuNgang.iml" filepath="$PROJECT_DIR$/menuNgang/menuNgang.iml" />
     </modules>
   </component>
 </project>
